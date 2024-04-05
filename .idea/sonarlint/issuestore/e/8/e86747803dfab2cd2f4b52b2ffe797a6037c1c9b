@@ -1,0 +1,29 @@
+
+Ž
+java:S1192	"qDefine a constant instead of duplicating this literal "Welcome to the Calculator 
+ Select the operation" 3 times.(˜û«“8ÌˆÝñâ1
+n
+java:S3457	"Q%n should be used in place of \n to produce the platform-specific line separator.(˜û«“8˜‰Ýñâ1
+B
+java:S3457	"%String contains no format specifiers.(˜û«“8˜‰Ýñâ1
+G	java:S106	"+Replace this use of System.out by a logger.(˜û«“8™‰Ýñâ1
+G	java:S106"+Replace this use of System.out by a logger.(ãÉáç8›‰Ýñâ1
+n
+java:S3457"Q%n should be used in place of \n to produce the platform-specific line separator.(˜û«“8›‰Ýñâ1
+B
+java:S3457"%String contains no format specifiers.(˜û«“8›‰Ýñâ1
+G	java:S106"+Replace this use of System.out by a logger.(˜û«“8›‰Ýñâ1
+G	java:S106"+Replace this use of System.out by a logger.(„Ì¢ÿ8œ‰Ýñâ1
+L	java:S106"+Replace this use of System.out by a logger.(½ìú¡ÿÿÿÿÿ8œ‰Ýñâ1
+L	java:S106"+Replace this use of System.out by a logger.(ñˆºèÿÿÿÿÿ8œ‰Ýñâ1
+G	java:S106""+Replace this use of System.out by a logger.(ÆíÀÂ8‰Ýñâ1
+G	java:S106'"+Replace this use of System.out by a logger.(ý­Î¾8‰Ýñâ1
+G	java:S106,"+Replace this use of System.out by a logger.(äð”Ã8ž‰Ýñâ1
+L	java:S1060"+Replace this use of System.out by a logger.(Å ûËúÿÿÿÿ8 ‰Ýñâ1
+G	java:S1065"+Replace this use of System.out by a logger.(·§å¸8¢‰Ýñâ1
+n
+java:S3457;"Q%n should be used in place of \n to produce the platform-specific line separator.(˜û«“8¤‰Ýñâ1
+B
+java:S3457;"%String contains no format specifiers.(˜û«“8¥‰Ýñâ1
+G	java:S106;"+Replace this use of System.out by a logger.(˜û«“8§‰Ýñâ1
+G	java:S106>"+Replace this use of System.out by a logger.(ûºÀ£8¨‰Ýñâ1

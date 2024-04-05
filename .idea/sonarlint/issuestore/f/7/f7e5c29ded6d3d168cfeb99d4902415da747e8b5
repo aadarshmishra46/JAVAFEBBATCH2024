@@ -1,0 +1,18 @@
+
+X
+java:S1854
+"6Remove this useless assignment to local variable "sc".(ðÛ²¸øÿÿÿÿ8¦Ê’·æ1
+I
+java:S1481
+"'Remove this unused "sc" local variable.(ðÛ²¸øÿÿÿÿ8¨Ê’·æ1
+L	java:S106"+Replace this use of System.out by a logger.(ªÓ¼áþÿÿÿÿ8¨Ê’·æ1
+R
+java:S2209"5Change this instance-reference to a static reference.(äªâ†8¨Ê’·æ1
+G	java:S106"+Replace this use of System.out by a logger.(¨¢¥ï8©Ê’·æ1
+R
+java:S2209"5Change this instance-reference to a static reference.(¨¢¥ï8¨Ê’·æ1
+G	java:S106"+Replace this use of System.out by a logger.(·Ø²ë8©Ê’·æ1
+G	java:S106"+Replace this use of System.out by a logger.(‰¼Ÿê8©Ê’·æ1
+R
+java:S2209"5Change this instance-reference to a static reference.(‰¼Ÿê8©Ê’·æ1
+G	java:S106"+Replace this use of System.out by a logger.(éæÙÚ8æù¥·æ1

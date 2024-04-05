@@ -1,0 +1,14 @@
+
+_
+java:S3518"CMake sure this expression can't be zero before doing this division.(õ∫ù<8º⁄è‰„1
+G	java:S106"+Replace this use of System.out by a logger.(Ω†Ü≈8ßÍç‰„1
+L	java:S106"+Replace this use of System.out by a logger.(ùÎß˙ˇˇˇˇ8ßÍç‰„1
+]	java:S125"<This block of commented-out lines of code should be removed.(£Úéòˇˇˇˇˇ8ßÍç‰„1
+Q
+java:S1854"5Remove this useless assignment to local variable "i".(õ∫ù<8¬⁄è‰„1
+B
+java:S1481"&Remove this unused "i" local variable.(õ∫ù<8¬⁄è‰„1
+R
+java:S1128"0Remove this unused import 'java.io.IOException'.(™∫ª⁄˝ˇˇˇˇ8√⁄è‰„1
+X
+java:S1128"6Remove this unused import 'java.sql.SQLDataException'.(Äç’¢˙ˇˇˇˇ8√⁄è‰„1
