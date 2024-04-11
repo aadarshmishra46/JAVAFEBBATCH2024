@@ -1,0 +1,15 @@
+
+{
+java:S1171"YMove the contents of this initializer to a standard constructor or to field initializers.(°üĞçşÿÿÿÿ8à«Ò—í1
+L	java:S106
+"+Replace this use of System.out by a logger.(ıÌÿùÿÿÿÿ8á«Ò—í1
+G	java:S106"+Replace this use of System.out by a logger.(ÓÎ½8á«Ò—í1
+R
+java:S1854"5Remove this useless assignment to local variable "p".(¾ù‡»8â«Ò—í1
+C
+java:S1481"&Remove this unused "p" local variable.(¾ù‡»8â«Ò—í1
+L	java:S106"+Replace this use of System.out by a logger.(™ÆÇùÿÿÿÿ8â«Ò—í1
+L	java:S106"+Replace this use of System.out by a logger.(¸À´Òùÿÿÿÿ8ã«Ò—í1
+v
+java:S1171"YMove the contents of this initializer to a standard constructor or to field initializers.(Ç‚»8ã«Ò—í1
+F	java:S106"+Replace this use of System.out by a logger.(ã ÏT8ã«Ò—í1
